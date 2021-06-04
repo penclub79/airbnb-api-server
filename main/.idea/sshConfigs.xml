@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig host="18.191.195.162" id="9ccfb19c-8b94-43d0-a00d-70d6d5471475" keyPath="C:\Users\pencl\OneDrive\바탕 화면\AWS키페어\devel_airbnb.pem" port="22" nameFormat="DESCRIPTIVE" username="ubuntu" />
+    </configs>
+  </component>
+</project>

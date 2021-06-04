@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="dbc591ba-f18c-46a2-bfda-d1f08997cc8e" name="airbnb" url="https://www.devel-airbnb.shop/">
+        <fileTransfer rootFolder="/var/www/html/airbnb-api-server" accessType="SFTP" host="18.191.195.162" port="22" sshConfigId="9ccfb19c-8b94-43d0-a00d-70d6d5471475" sshConfig="ubuntu@18.191.195.162:22 key" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
